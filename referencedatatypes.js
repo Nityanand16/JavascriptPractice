@@ -8,7 +8,7 @@ let user ={
 //object->user, property of object is name and age
 console.log(user);
 
-//differe way to read the property of the object
+//different way to read the property of the object
 
 //1. dot notation
 console.log(user.name); //object name.property name
